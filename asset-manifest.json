@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/tesla-showroom/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/tesla-showroom/static/js/main.049da7e1.js",
-    "static/js/787.3af7a999.chunk.js": "/github.io/tesla-showroom/static/js/787.3af7a999.chunk.js",
-    "index.html": "/github.io/tesla-showroom/index.html",
-    "main.073c9b0a.css.map": "/github.io/tesla-showroom/static/css/main.073c9b0a.css.map",
-    "main.049da7e1.js.map": "/github.io/tesla-showroom/static/js/main.049da7e1.js.map",
-    "787.3af7a999.chunk.js.map": "/github.io/tesla-showroom/static/js/787.3af7a999.chunk.js.map"
+    "main.css": "/tesla-showroom/static/css/main.073c9b0a.css",
+    "main.js": "/tesla-showroom/static/js/main.914d6195.js",
+    "static/js/787.dc1939d1.chunk.js": "/tesla-showroom/static/js/787.dc1939d1.chunk.js",
+    "index.html": "/tesla-showroom/index.html",
+    "main.073c9b0a.css.map": "/tesla-showroom/static/css/main.073c9b0a.css.map",
+    "main.914d6195.js.map": "/tesla-showroom/static/js/main.914d6195.js.map",
+    "787.dc1939d1.chunk.js.map": "/tesla-showroom/static/js/787.dc1939d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.049da7e1.js"
+    "static/js/main.914d6195.js"
   ]
 }
