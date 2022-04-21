@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ogger77/github.io/tesla-showroom",
-  "name": "testlashowroom-web",
+  "homepage": "https://ogger77.github.io/tesla-showroom",
+  "name": "tesla-showroom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
