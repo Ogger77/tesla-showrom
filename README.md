@@ -1,8 +1,8 @@
-# Tesla Showroom build
-A demo built by THREE.JS and React-js-Fiber.
-Based on a tutorial of Pragmatic Institute
+# Tesla Showroom
+Utilize Three.js and web Gl to build an interactive car showroom
+Based on a tutorial of Pragmatic Institute.
 
 # Tech-stack
-React
-React-Three-Fiber
-Three.js
+* [React] (https://reactjs.org/)
+* [React-Three-Fiber] (https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+* [Three.js] (https://threejs.org/)
